@@ -1,0 +1,5 @@
+/Users/nburnasheva/temp/RiderProjects/NuGetFeedTest/NuGetFeedTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nburnasheva/temp/RiderProjects/NuGetFeedTest/NuGetFeedTest/bin/Debug/NuGetFeedTest.dll.mdb
+/Users/nburnasheva/temp/RiderProjects/NuGetFeedTest/NuGetFeedTest/bin/Debug/NuGetFeedTest.dll
+/Users/nburnasheva/temp/RiderProjects/NuGetFeedTest/NuGetFeedTest/obj/Debug/NuGetFeedTest.dll
+/Users/nburnasheva/temp/RiderProjects/NuGetFeedTest/NuGetFeedTest/obj/Debug/NuGetFeedTest.dll.mdb
