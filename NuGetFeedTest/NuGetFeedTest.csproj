@@ -43,7 +43,10 @@
     <Compile Include="Calculator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-<!--  <ItemGroup>
+  <ItemGroup>
+    <Content Include="NuGetFeedTest.nuspec" />
+  </ItemGroup>
+  <!--  <ItemGroup>
     <Content Include="NuGetFeedTest.nuspec" />
   </ItemGroup>-->
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -12,4 +12,7 @@
     <copyright>Copyright 2017</copyright>
     <tags>TeamCity Test</tags>
   </metadata>
+  <files>
+    <file src="bin\$(Configuration)\*.dll" target="lib"/>
+  </files>
 </package>
