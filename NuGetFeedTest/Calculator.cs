@@ -1,25 +1,23 @@
-﻿using System;
-
-namespace NuGetFeedTest
+﻿namespace NuGetFeedTest
 {
-    public class Calculator
+    public static class Calculator
     {
-        public double plus(double a, double b)
+        public static double Plus(double a, double b)
         {
             return a + b;
         }
 
-        public double minus(double a, double b)
+        public static double Minus(double a, double b)
         {
             return a - b;
         }
 
-        public double multiply(double a, double b)
+        public static double Multiply(double a, double b)
         {
             return a * b;
         }
 
-        public double divide(double a, double b)
+        public static double Divide(double a, double b)
         {
             return a / b;
         }
