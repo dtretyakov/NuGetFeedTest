@@ -11,5 +11,11 @@ namespace TestNuGetFeed
         {
             Assert.True(true);
         }
+        
+        [Test]
+        public void Test2()
+        {
+            Assert.AreEqual(5, NuGetFeedTest.Calculator.Plus(3, 4));
+        }
     }
 }
