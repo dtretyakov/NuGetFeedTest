@@ -13,6 +13,6 @@
     <tags>TeamCity Test</tags>
   </metadata>
   <files>
-    <file src="bin\Debug\*.dll" target="lib"/>
+    <file src="bin\Debug\NuGetFeedTest.dll" target="lib"/>
   </files>
 </package>
