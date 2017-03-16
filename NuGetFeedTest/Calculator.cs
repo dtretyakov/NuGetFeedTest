@@ -4,6 +4,7 @@
     {
         public static double Plus(double a, double b)
         {
+            //some comment here
             return a + b;
         }
 
