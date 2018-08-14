@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGetFeedNetCoreLib", "NuGetFeedNetCoreLib\NuGetFeedNetCoreLib.csproj", "{C6FB54A6-ABAC-472D-8730-447B9D0B1745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGetFeedNetCoreApp", "NuGetFeedNetCoreApp\NuGetFeedNetCoreApp.csproj", "{DED7D05C-4960-4A7B-8602-5D26F1CF7639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FB54A6-ABAC-472D-8730-447B9D0B1745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FB54A6-ABAC-472D-8730-447B9D0B1745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FB54A6-ABAC-472D-8730-447B9D0B1745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FB54A6-ABAC-472D-8730-447B9D0B1745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED7D05C-4960-4A7B-8602-5D26F1CF7639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED7D05C-4960-4A7B-8602-5D26F1CF7639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED7D05C-4960-4A7B-8602-5D26F1CF7639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED7D05C-4960-4A7B-8602-5D26F1CF7639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
